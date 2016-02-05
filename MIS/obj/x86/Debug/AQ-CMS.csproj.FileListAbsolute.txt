@@ -1,0 +1,192 @@
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\MIS.exe.config
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.exe
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeTution.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeMonth.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmStudent.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmMain.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmReports.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\MIS.exe
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\MIS.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\BL.exe
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\BL.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewerReminder.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEArrears.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmClass.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEClass.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\MIS.exe.config
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.exe
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.pdb
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\MIS.exe
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\MIS.pdb
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\BL.exe
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\BL.pdb
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEClass.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmClass.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEArrears.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeTution.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeMonth.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmStudent.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmMain.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewerReminder.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmReports.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AIOU\Desktop\DESP\AQSMS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AQSMS\MIS\bin\Debug\MIS.exe.config
+D:\AQSMS\MIS\obj\x86\Debug\MIS.exe
+D:\AQSMS\MIS\obj\x86\Debug\MIS.pdb
+D:\AQSMS\MIS\bin\Debug\MIS.exe
+D:\AQSMS\MIS\bin\Debug\MIS.pdb
+D:\AQSMS\MIS\bin\Debug\BL.exe
+D:\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\AQSMS\MIS\bin\Debug\BL.pdb
+D:\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+D:\AQSMS\MIS\obj\x86\Debug\AQ-CMS.csprojResolveAssemblyReference.cache
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEClass.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmClass.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEArrears.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeTution.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeMonth.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmStudent.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmMain.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewerReminder.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmReports.resources
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+D:\AQSMS\MIS\obj\x86\Debug\AQ-CMS.csproj.GenerateResource.Cache
+D:\AQSMS\MIS\obj\x86\Debug\MIS.frmBackup.resources
+D:\AQSMS\20-10-14\MIS\bin\Debug\MIS.exe.config
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.exe
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.pdb
+D:\AQSMS\20-10-14\MIS\bin\Debug\MIS.exe
+D:\AQSMS\20-10-14\MIS\bin\Debug\MIS.pdb
+D:\AQSMS\20-10-14\MIS\bin\Debug\BL.exe
+D:\AQSMS\20-10-14\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\AQSMS\20-10-14\MIS\bin\Debug\BL.pdb
+D:\AQSMS\20-10-14\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\AQ-CMS.csprojResolveAssemblyReference.cache
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmAEClass.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmClass.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmAEArrears.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmStudent.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmUsers.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmBackup.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmLogin.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmMain.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmReportViewerReminder.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmReports.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+D:\AQSMS\20-10-14\MIS\obj\x86\Debug\AQ-CMS.csproj.GenerateResource.Cache
+D:\AQSMS\03-01-15\MIS\bin\Debug\MIS.exe.config
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.exe
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.pdb
+D:\AQSMS\03-01-15\MIS\bin\Debug\MIS.exe
+D:\AQSMS\03-01-15\MIS\bin\Debug\MIS.pdb
+D:\AQSMS\03-01-15\MIS\bin\Debug\BL.exe
+D:\AQSMS\03-01-15\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\AQSMS\03-01-15\MIS\bin\Debug\BL.pdb
+D:\AQSMS\03-01-15\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\AQ-CMS.csprojResolveAssemblyReference.cache
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEClass.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmClass.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEArrears.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmStudent.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmUsers.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmBackup.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmLogin.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmMain.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReportViewerReminder.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReports.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+D:\AQSMS\03-01-15\MIS\obj\x86\Debug\AQ-CMS.csproj.GenerateResource.Cache
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\MIS.exe.config
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.exe
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.pdb
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\AQ-CMS.csprojResolveAssemblyReference.cache
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEClass.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmClass.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEArrears.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmStudent.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmUsers.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmBackup.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmLogin.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmMain.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReportViewerReminder.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReports.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\AQ-CMS.csproj.GenerateResource.Cache
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\MIS.exe
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\MIS.pdb
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\BL.exe
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\BL.pdb
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\DevComponents.DotNetBar2.dll

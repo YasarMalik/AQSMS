@@ -1,0 +1,425 @@
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmBundleCourseWise.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\MIS.exe
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\BL.exe
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\BL.pdb
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmBundleCourseWise.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\MIS.exe.config
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.exe
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.pdb
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECenter.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECourse.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEExaminer.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCenters.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCourses.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmExaminers.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Form1.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmMain.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmBundleCourseWise.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReports.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEBundle.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAECentMrk.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmAEDeptMrk.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundles.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmBundleHistory.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmCentMrk.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmDeptMrk.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmUpdateBundle.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\MIS.Reports.frmViewerCourseOrCenterWise.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\MIS.exe
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\MIS.pdb
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\BL.exe
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\MIS\bin\Debug\BL.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\MIS.exe.config
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.exe
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\MIS.exe
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\MIS.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\BL.exe
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\BL.pdb
+C:\Users\AIOU\Desktop\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.Form1.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmMain.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmStudent.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeMonth.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeTution.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmReports.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+C:\Users\AIOU\Desktop\AQSMS\MIS\obj\x86\Debug\MIS.frmArrears.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\MIS.exe.config
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.exe
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.pdb
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.csprojResolveAssemblyReference.cache
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmArrears.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmStudent.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmUsers.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Form1.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmLogin.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmMain.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReports.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+D:\D Drive Data\AQSMS\03-01-15\MIS\obj\x86\Debug\MIS.csproj.GenerateResource.Cache
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\MIS.exe
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\MIS.pdb
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\BL.exe
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\stdole.dll
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\BL.pdb
+D:\D Drive Data\AQSMS\03-01-15\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\MIS.exe.config
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.exe
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.pdb
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\MIS.exe
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\MIS.pdb
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\BL.exe
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\stdole.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\BL.pdb
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.csprojResolveAssemblyReference.cache
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmArrearsList.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmArrears.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmFeeAdmission.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmAEFeeAdmission.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmAEStudent.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmAEOrg.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmAEUser.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmChangePwd.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmStudent.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmUsers.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.Admin.frmUserStatistics.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmLogin.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmMain.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.Properties.Resources.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmReports.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.frmReportViewer.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\MIS\obj\x86\Debug\MIS.csproj.GenerateResource.Cache

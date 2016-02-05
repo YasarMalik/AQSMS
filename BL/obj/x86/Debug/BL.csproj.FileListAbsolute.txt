@@ -1,0 +1,172 @@
+E:\Secracy MIS\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\26-03-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\26-03-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\26-03-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\26-03-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\26-03-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\26-03-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\26-03-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\26-03-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\03-04-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\03-04-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\03-04-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\03-04-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\03-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\03-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\03-04-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\03-04-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\09-04-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\09-04-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\09-04-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\09-04-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\09-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\09-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\09-04-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\09-04-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\16-04-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\16-04-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\16-04-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\16-04-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\16-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\16-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\16-04-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\16-04-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\23-04-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\23-04-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\23-04-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\23-04-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\23-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\23-04-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\23-04-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\23-04-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\May 12\02-05-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\May 12\07-05-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\May 12\14-05-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\May 12\21-05-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\June 12\08-06-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\June 12\12-06-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\June 12\20-06-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\bin\Debug\BL.exe
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\bin\Debug\BL.pdb
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+E:\Secracy MIS\June 12\27-06-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\bin\Debug\BL.exe
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\bin\Debug\BL.pdb
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\obj\x86\Debug\BL.exe
+D:\Secracy MIS\July 12\11-07-2012\SecMIS\BL\obj\x86\Debug\BL.pdb
+C:\Users\AIOU\Desktop\AQSMS\BL\bin\Debug\BL.exe
+C:\Users\AIOU\Desktop\AQSMS\BL\bin\Debug\BL.pdb
+C:\Users\AIOU\Desktop\AQSMS\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AIOU\Desktop\AQSMS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+C:\Users\AIOU\Desktop\AQSMS\BL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AIOU\Desktop\AQSMS\BL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AIOU\Desktop\AQSMS\BL\obj\x86\Debug\BL.exe
+C:\Users\AIOU\Desktop\AQSMS\BL\obj\x86\Debug\BL.pdb
+D:\AQSMS\BL\bin\Debug\BL.exe
+D:\AQSMS\BL\bin\Debug\BL.pdb
+D:\AQSMS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+D:\AQSMS\BL\obj\x86\Debug\BL.csproj.GenerateResource.Cache
+D:\AQSMS\BL\obj\x86\Debug\BL.exe
+D:\AQSMS\BL\obj\x86\Debug\BL.pdb
+D:\AQSMS\20-10-14\BL\bin\Debug\BL.exe
+D:\AQSMS\20-10-14\BL\bin\Debug\BL.pdb
+D:\AQSMS\20-10-14\BL\obj\x86\Debug\BL.Properties.Resources.resources
+D:\AQSMS\20-10-14\BL\obj\x86\Debug\BL.csproj.GenerateResource.Cache
+D:\AQSMS\20-10-14\BL\obj\x86\Debug\BL.exe
+D:\AQSMS\20-10-14\BL\obj\x86\Debug\BL.pdb
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\BL.exe
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\BL.pdb
+D:\D Drive Data\AQSMS\03-01-15\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\D Drive Data\AQSMS\03-01-15\BL\obj\x86\Debug\BL.Properties.Resources.resources
+D:\D Drive Data\AQSMS\03-01-15\BL\obj\x86\Debug\BL.csproj.GenerateResource.Cache
+D:\D Drive Data\AQSMS\03-01-15\BL\obj\x86\Debug\BL.exe
+D:\D Drive Data\AQSMS\03-01-15\BL\obj\x86\Debug\BL.pdb
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\D Drive Data\AQSMS\03-01-15\BL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\BL.exe
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\BL.pdb
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\obj\x86\Debug\BL.Properties.Resources.resources
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\obj\x86\Debug\BL.csproj.GenerateResource.Cache
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\obj\x86\Debug\BL.exe
+C:\Users\Yasar\Desktop\UVA\AQSMS\BL\obj\x86\Debug\BL.pdb
